@@ -1,32 +1,76 @@
-### Hi! I'm Trishna 👋🏻
-<!--
-**trishnapaswan/trishnapaswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Trishna Paswan ✨
 
-- 🔭 Currently building a smart Resume Parser in Python
-- 🌱 Deepening my knowledge in Artificial Intelligence
-- 👯 Open to collaborating on innovative AI & data projects
-- 🤔 Seeking mentorship on advanced Python techniques
-- 💬 Ask me about Python, AI applications, and Java fundamentals
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/trishna-kumari-paswan) | [Email](mailto:trishnapaswan@example.com)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy transforming complex problems into elegant code solutions
--->
+### AI Developer • Full Stack Developer • Building Modern Digital Experiences
 
-<p align="center">
-  <em>Aspiring AI Developer | Python Enthusiast | Problem Solver</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Enthusiast;Full+Stack+Developer;Creating+Scalable+Applications;Building+Futuristic+Interfaces" />
 
-### 🌟 About Me
-- 🎓 Pursuing B.Tech in Computer Science at Bennett University  
-- 🤖 Passionate about Artificial Intelligence & Machine Learning  
-- 🔍 Dedicated to building real-world solutions with clean, efficient code  
-- 💻 Active participant in CodeChef BU coding community  
+</div>
 
 ---
 
+```bash id="ny9x87"
+> Currently Building Intelligent Systems & Futuristic Web Experiences
+```
+
+## ⚡ Tech Arsenal
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishna-paswan&layout=compact&theme=radical" height="150" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nextjs,tailwind,flask,mysql,git,github,vscode" />
 </p>
 
+---
+
+## 🚀 What I Do
+
+* 🤖 Build AI-powered applications
+* 🌐 Develop modern full-stack web platforms
+* 🎨 Design responsive and interactive interfaces
+* ⚙️ Create automation-focused solutions
+* 📈 Continuously learn and explore emerging technologies
+
+---
+
+## 🧠 Current Focus
+
+```python id="c9r2ax"
+class Trishna:
+    def __init__(self):
+        self.role = "AI & Full Stack Developer"
+        self.learning = ["AI", "Automation", "Scalable Systems"]
+        self.tech_stack = ["Python", "Next.js", "Flask", "React"]
+        self.goal = "Building impactful real-world solutions"
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trishna-paswan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishna-paswan&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+🚀 AI Event Planner
+📄 OneFill — AI Form Autofiller
+🧠 Mental Health Sentiment Analysis
+⚔️ CodeArena
+✈️ Airline Booking System
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+[Portfolio](https://trishnapaswan.vercel.app/) •
+[GitHub](https://github.com/trishna-paswan) •
+[LinkedIn](https://www.linkedin.com/in/trishna-kumari-paswan)
+
+</div>
