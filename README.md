@@ -22,16 +22,6 @@
 
 ---
 
-## 🚀 What I Do
-
-* 🤖 Build AI-powered applications
-* 🌐 Develop modern full-stack web platforms
-* 🎨 Design responsive and interactive interfaces
-* ⚙️ Create automation-focused solutions
-* 📈 Continuously learn and explore emerging technologies
-
----
-
 ## 🧠 Current Focus
 
 ```python id="c9r2ax"
@@ -52,16 +42,6 @@ class Trishna:
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishna-paswan&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-## 🌟 Featured Projects
-
-🚀 AI Event Planner
-📄 OneFill — AI Form Autofiller
-🧠 Mental Health Sentiment Analysis
-⚔️ CodeArena
-✈️ Airline Booking System
 
 ---
 
