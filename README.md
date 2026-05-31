@@ -2,8 +2,7 @@
 
 # Trishna Paswan ✨
 
-### AI Developer • Full Stack Developer • Building Modern Digital Experiences
-
+### AI Developer • Full Stack Developer • Building Modern Digital Experiences • Software Engineer 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Enthusiast;Full+Stack+Developer;Creating+Scalable+Applications;Building+Futuristic+Interfaces" />
 
 </div>
